@@ -1,0 +1,54 @@
+{
+  "alunos": [
+    {
+      "id": 1,
+      "nome": "Maria Silva",
+      "email": "maria@email.com",
+      "cpf": "123.456.789-00",
+      "data_nascimento": "2007-05-14",
+      "endereco": "Rua das Flores, 123 - Pau dos Ferros/RN"
+    },
+    {
+      "nome": "Grazy",
+      "email": "grazysouza@escolar.ifrn.edu.br",
+      "cpf": "999.888.777",
+      "data_nascimento": "2008-04-21",
+      "endereco": "Riacho de Santana",
+      "id": 2
+    },
+    {
+      "nome": "Pedro Heitor",
+      "email": "ph@escolar.ifrn.edu.br",
+      "cpf": "444.555.137-67",
+      "data_nascimento": "2008-05-19",
+      "endereco": "Riacho da Cruz",
+      "id": 3
+    },
+    {
+      "nome": "Marina Louise ",
+      "email": "marina@escolar.ifrn.edu.br",
+      "cpf": "001.071.001-06",
+      "data_nascimento": "1926-09-30",
+      "endereco": "Chico Cajá, IFRN campus Pau dos Ferros, s/n",
+      "id": 4
+    }
+  ],
+  "professores": [
+    {
+      "nome": "Jeferson Queiroga",
+      "email": "jeff@escolar.ifrn.edu.br",
+      "cpf": "166.138.135-13",
+      "disciplina": "Programação para Internet",
+      "data_admissao": "2014-01-01",
+      "id": 2
+    },
+    {
+      "nome": "Magno",
+      "email": "franciscomagno@escolar.ifrn.edu.br",
+      "cpf": "676.677.678-67",
+      "disciplina": "Português",
+      "data_admissao": "1999-02-15",
+      "id": 3
+    }
+  ]
+}
